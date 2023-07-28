@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "023380f9d7f0ca8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e492ee9474a45b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b437d4e3f631149a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb982e3912571af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a372981cda0dbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3dbd4f2339816d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23d39c805a58f379",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d5d7d193cdf1921",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60980d9cfd16debe",
+    "type": "split",
+    "children": [
+      {
+        "id": "844b886f541c160e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a279336506672258",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "343c4207d52a095b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08c84e0a01884f0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d8118e4095242c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "b3dbd4f2339816d7",
+  "lastOpenFiles": [
+    "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+    "README.md",
+    "g_hub/desktop.ini",
+    "g_hub",
+    "2023-07-28.md",
+    "CS 6375"
+  ]
+}
