@@ -11,8 +11,12 @@
             "id": "b437d4e3f631149a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md"
+              }
             }
           }
         ]
@@ -140,7 +148,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b3dbd4f2339816d7",
+  "active": "b437d4e3f631149a",
   "lastOpenFiles": [
     "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
     "README.md",
