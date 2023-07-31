@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+                "file": "CS 6363/Chapter 4 Divide and Conquer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+                "file": "CS 6363/Chapter 4 Divide and Conquer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+                "file": "CS 6363/Chapter 4 Divide and Conquer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md"
+                "file": "CS 6363/Chapter 4 Divide and Conquer.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   "active": "b437d4e3f631149a",
   "lastOpenFiles": [
     "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+    "CS 6363/Chapter 4 Divide and Conquer.md",
+    "CS 6363",
     "README.md",
     "g_hub/desktop.ini",
     "g_hub",
