@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 6363/Chapter 4 Divide and Conquer.md",
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2d69d629afb6aef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 6363/Chapter 3 Characterizing Running Times.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bea588942d5991e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 6375/Chapter 3 Decision Tree Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 6363/Chapter 4 Divide and Conquer.md",
+                "file": "CS 6375/Chapter 3 Decision Tree Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 6363/Chapter 4 Divide and Conquer.md",
+                "file": "CS 6375/Chapter 3 Decision Tree Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 6363/Chapter 4 Divide and Conquer.md"
+                "file": "CS 6375/Chapter 3 Decision Tree Learning.md"
               }
             }
           }
@@ -148,9 +173,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b437d4e3f631149a",
+  "active": "bea588942d5991e9",
   "lastOpenFiles": [
+    "CS 6363/Chapter 3 Characterizing Running Times.md",
     "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
+    "CS 6375/Chapter 3 Decision Tree Learning.md",
+    "Prompting GPT.md",
+    "Homework 1.md",
     "CS 6363/Chapter 4 Divide and Conquer.md",
     "CS 6363",
     "README.md",
