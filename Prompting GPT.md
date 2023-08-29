@@ -9,7 +9,7 @@ For questions and answers that require mathematical symbols, the mathematical sy
 
 Guidelines:
 
-Make flashcards only on the most important information, but make sure it comprehensively covers all of the material. There should be about 35-50 flash cards in total. 
+Make flashcards only on the most important information, but make sure it comprehensively covers all of the material. There should be about 45-60 flash cards in total. 
 Make sure the questions are clear and easy to understand
 Make the answers very concise and about a single concept or fact
 
@@ -21,24 +21,6 @@ What is the average level on which the Dead Sea is located?; “400 meters (belo
 How long is the Dead Sea?; “70 km”
 
 Info:
-- Learning- the ability to perform a task in a situation which has never been encountered before. e.g. Learning = Generalization.
-- Supervised Learning: The training data includes desired outputs. 
-- Unsupervised Learning: Training data does not include outputs, find hidden/interesting structure in data. 
-- Semi-supervised learning- Training data includes a few desired outputs. 
-- Reinforcement learning- the learner interacts with the world via actions, and tries to find an optimal policy of behavior with respect to "rewards" it receives from the environment. 
-- Classification-outputs are discrete, Regression- desired outputs are continuous. 
-### Introduction to Supervised Learning
-* Induction- is defined as the process of reasoning which infers a general conclusion based on individual cases. 
-	* Differs from deduction where a knowledge base is given and you are answering specific queries using the knowledge base. 
-#### Classification and Regression
-* Classification: $y = f(x)$ is a discrete quantity. 
-* Regression: $y = f(x)$ is a continuous quantity. 
-* A more Plausible approach to selecting h:
-	* Select a hypothesis class H. This models the assumptions you make about the function f. 
-	* Find a function $h \in \mathbb{H}$ that is consistent with the given data based on some evaluation criteria.
-* Two views of learning:
-	* Learning requires guessing a good, small hypothesis class via step 1. 
-	* Learning is removal of our remaining uncertainty, via step 2. 
 
-* There are $2^{2^n}$ possible Boolean functions over $n$ features. Why? There are $2^n$ possible assignments and a function evaluates each of them to  be either true or false.  
+
 
