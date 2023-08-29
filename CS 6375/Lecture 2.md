@@ -9,3 +9,4 @@ Univariate Probabilistic Model:
 * **The Likelihood of the Dataset**: The probability of generating the dataset. Since all points in the dataset are independent and identically distributed. $P(D|\theta)=P(x^{1},\dots,x^{n}= \Pi^{n}_{i=1}P(x^{i}|\theta)$. 
 * Maximum Likelihood Estimate: Find a value for $\theta$ such that the likelihood is maximized, i.e. $\theta_{mle}=arg max_{\theta}P(D|\theta)$. We optimize by taking the derivative and setting it to zero. 
 * Take the time to prove that $\theta_{mle}=\frac{\alpha_{1}}{\alpha_{0}+\alpha_{1}}$. Optimize using the log-likelihood. Derive from both as a homework. 
+
