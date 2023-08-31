@@ -17,5 +17,3 @@
 * Representational data models represent data by using record structures and hence are sometimes called record-based data models. 
 * An access path is a structure that makes the search for particular database records efficient, and is represented in physical data models. 
 * An index is an example of an access path that allows direct access to data using an index term or a keyword. 
-* ### Schemas, Instances, and Database State
-* 
