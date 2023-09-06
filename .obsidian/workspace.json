@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompting GPT.md",
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompting GPT.md",
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompting GPT.md",
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompting GPT.md"
+                "file": "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md"
               }
             }
           }
@@ -162,24 +162,26 @@
   },
   "active": "2d69d629afb6aef2",
   "lastOpenFiles": [
+    "CS 6375/Chapter 2 Probability.md",
+    "CS 6375/Chapter 2 Probability; Univariate Models.md",
+    "CS 6375/Chapter 3 Decision Tree Learning.md",
+    "CS 6363/Chapter 1 Recursion.md",
+    "CS 6363/Chapter 3 Characterizing Running Times.md",
+    "CS 6363/Chapter 4 Divide and Conquer.md",
+    "CS 6363/Lecture 1 Asymptotics.md",
+    "CS 6375/Homework 1.md",
+    "Homework 1.md",
+    "Prompting GPT.md",
     "CS 6360/Chapter 1 Databases and Database Users.md",
     "CS 6360/Chapter 2 Database System Concepts and Architecture.md",
     "CS 6375/Lecture 1.md",
     "CS 6375/Lecture 2.md",
     "CS 6375/Lecture 3.md",
-    "Prompting GPT.md",
     "CS 6363/Lecture 3.md",
     "CS 6360/Lecture 3.md",
-    "CS 6375/Chapter 2 Probability; Univariate Models.md",
     "CS 6363/Lecture 2.md",
-    "CS 6375/Chapter 3 Decision Tree Learning.md",
-    "CS 6363/Lecture 1 Asymptotics.md",
-    "Homework 1.md",
-    "CS 6375/Chapter 2 Probability.md",
     "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md",
     "CS 6360",
-    "CS 6363/Chapter 3 Characterizing Running Times.md",
-    "CS 6363/Chapter 4 Divide and Conquer.md",
     "CS 6363",
     "README.md",
     "g_hub/desktop.ini",
