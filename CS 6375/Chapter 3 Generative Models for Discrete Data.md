@@ -32,4 +32,20 @@
 - When the prior and the posterior have the same form, we say that the prior is a conjugate prior for the corresponding likelihood. 
 - In the case of the Bernoulli, the conjugate prior is the beta distribution: $\beta(\theta|a, b)= \theta^{a-1}(1-\theta)^{b-1}$. 
 - The parameters of the prior are called hyper-parameters, and we can set them in order to encode our prior beliefs. If we know nothing about $\theta$, except that it lies in the interval $[0,1]$, we can use a uniform prior, which is a kind of uninformative prior. The uniform distribution can e represented by a  beta distribution with $a=b=1$. 
-- 
+### Posterior
+- If we multiply the likelihood by the beta prior we get the following posterior: $p(\theta|D)=Ber(N_{1}|\theta, N_{0}+N_{1})B e t a(\theta|a, b)= Be t a(\theta|N_{1}+a, N_{0}+b)$
+- In particular, the posterior is obtained by adding the prior hyper-parameters to the empirical counts. For this reason, the hyper-parameters are known as pseudo counts. 
+#### Posterior Mean and Mode
+- The MAP estimate is given by $\frac{a+N_{1}-1}{a+N_{1}+N_{2}+b-2}$, but if we use a uniform prior, the the MAP estimate reduces to the MLE, which is just the empirical fraction of heads: $mle = \frac{N_{1}}{N_{1}+N_{2}}$ . 
+#### Overfitting and the Black Swan Paradox
+- Unfortunately, when we use the MLE to fit our model, it can perform quite poorly when the sample size is small. In fact, if a positive sample has not been seen, the MLE will be 0 since this makes the observed data as probable as possible. 
+  - This is known as the zero count problem, but we can derive a simple Bayesian solution to the problem. We will use a uniform prior, so $a=b=1$. In this case, plugging in the posterior mean gives Laplace's rule of succession: $p(x=1|D)=\frac{N_{1}+1}{N_{1}+N_{0}+2}$
+  - This justifies the common practice of adding 1 to empirical counts, normalizing and then plugging them in, a technique known as add-one smoothing. 
+- 1-Laplace smoothing is where we pretend we saw every possible outcome once. 
+## Naive Bayes Classifiers
+- In this section, we discuss how to classify vectors of discrete-valued features, $x \in \{1, \dots K\}^D$, where $K$ is the number of values for each feature and $D$ is the number of features. 
+- This requires us to specify the class-conditional distribution $p(x|y=c)$. 
+- This simplest approach is to assume the features are conditionally independent given the class label. This allows us to write the class-conditional density as a product of one-dimensional densities: $p(x|y=c, \theta)=\Pi^{D}_{j=1}p(x_{j}|y=c, \theta_{jc})$. 
+- The resulting model is called a naive Bayes classifier. Even if the naive assumption that the features are not independent conditioned on the class, it often works well anyway. 
+### Model Fitting 
+- Training a naive Bayes classifier usually means computing the MLE or the MAP estimate for the parameters. 
