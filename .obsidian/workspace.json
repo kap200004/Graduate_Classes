@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "CS 6375/Homework 3.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +27,9 @@
               "type": "markdown",
               "state": {
                 "file": "CS 6375/Lecture 3.md",
+=======
+                "file": "CS 6360/Lecture 4.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "CS 6375/Lecture 3.md",
+=======
+                "file": "CS 6360/Lecture 4.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "CS 6375/Lecture 3.md",
+=======
+                "file": "CS 6360/Lecture 4.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "CS 6375/Lecture 3.md"
               }
             }
@@ -149,6 +162,9 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+=======
+                "file": "CS 6360/Lecture 4.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -173,11 +189,23 @@
   },
   "active": "a60bc451ffe2898f",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "CS 6375/Optimization.md",
     "CS 6375/Homework 3.md",
     "CS 6375/Untitled.md",
     "CS 6375/Lecture Generative Versus Discriminative Classifiers.md",
     "Homework 1.md",
+=======
+    "CS 6360/Lecture 3.md",
+    "CS 6360/Lecture 4.md",
+    "CS 6360/Chapter 2 Database System Concepts and Architecture.md",
+    "CS 6363/Lecture 3.md",
+    "CS 6375/Lecture 3.md",
+    "CS 6375/Lecture 2.md",
+    "CS 6375/Untitled",
+    "CS 6375/Chapter 3 Decision Tree Learning.md",
+    "CS 6363/Lecture 1 Asymptotics.md",
+>>>>>>> Stashed changes
     "Prompting GPT.md",
     "CS 6363/Lecture 5.md",
     "CS 6360/Lecture 6.md",
