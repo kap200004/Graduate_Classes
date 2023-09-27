@@ -1,56 +1,39 @@
 {
   "main": {
-    "id": "023380f9d7f0ca8a",
+    "id": "77e3a3bb6b28cede",
     "type": "split",
     "children": [
       {
-        "id": "0e492ee9474a45b1",
+        "id": "015c04fbac0c9137",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5a974abef31bb8",
+            "id": "cc71a00ea4ae19c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "CS 6375/Homework 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a60bc451ffe2898f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 6375/Lecture 3.md",
-=======
-                "file": "CS 6360/Lecture 4.md",
->>>>>>> Stashed changes
+                "file": "CS 6363/Homework 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cb982e3912571af2",
+    "id": "45d31ad6923b5e60",
     "type": "split",
     "children": [
       {
-        "id": "49a372981cda0dbe",
+        "id": "cf1d1f77288544bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b3dbd4f2339816d7",
+            "id": "36ba58f9393bd7db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +43,7 @@
             }
           },
           {
-            "id": "23d39c805a58f379",
+            "id": "08bec11e389179ed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +58,7 @@
             }
           },
           {
-            "id": "7d5d7d193cdf1921",
+            "id": "956d93c708cfae6d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 200
   },
   "right": {
-    "id": "60980d9cfd16debe",
+    "id": "b0e1ee67b5d94aeb",
     "type": "split",
     "children": [
       {
-        "id": "844b886f541c160e",
+        "id": "b67542d95c164461",
         "type": "tabs",
         "children": [
           {
-            "id": "a279336506672258",
+            "id": "1ff522a2dd16b9e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "CS 6375/Lecture 3.md",
-=======
-                "file": "CS 6360/Lecture 4.md",
->>>>>>> Stashed changes
+                "file": "CS 6363/Homework 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,23 +97,19 @@
             }
           },
           {
-            "id": "343c4207d52a095b",
+            "id": "eed86d1c0e6db21d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "CS 6375/Lecture 3.md",
-=======
-                "file": "CS 6360/Lecture 4.md",
->>>>>>> Stashed changes
+                "file": "CS 6363/Homework 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "08c84e0a01884f0a",
+            "id": "b75d6b19b8c73f36",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,26 +120,22 @@
             }
           },
           {
-            "id": "9d8118e4095242c8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "CS 6375/Lecture 3.md"
-              }
-            }
-          },
-          {
-            "id": "db846353404c1975",
+            "id": "13d90336542edca8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
-=======
-                "file": "CS 6360/Lecture 4.md"
->>>>>>> Stashed changes
+              }
+            }
+          },
+          {
+            "id": "55e54f6b2911d40c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS 6363/Homework 3.md"
               }
             }
           }
@@ -177,63 +148,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a60bc451ffe2898f",
+  "active": "cc71a00ea4ae19c8",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "CS 6375/Optimization.md",
+    "CS 6363/Dynamic Programming.md",
+    "CS 6363/Homework 3.md",
+    "CS 6363/Backtracking.md",
+    "CS 6375/Homework 4.md",
+    "1000003463.jpg",
+    "CS 6375/Homework 4.pdf",
+    "20230925_214636.dng",
     "CS 6375/Homework 3.md",
-    "CS 6375/Untitled.md",
-    "CS 6375/Lecture Generative Versus Discriminative Classifiers.md",
-    "Homework 1.md",
-=======
-    "CS 6360/Lecture 3.md",
-    "CS 6360/Lecture 4.md",
-    "CS 6360/Chapter 2 Database System Concepts and Architecture.md",
-    "CS 6363/Lecture 3.md",
-    "CS 6375/Lecture 3.md",
-    "CS 6375/Lecture 2.md",
+    "CS 6375/ReadMe.md",
+    "CS 6375/ReadMe.pdf",
+    "CS 6375/Project 1 Write Up.md",
+    "CS 6375/Project 1 Write Up.pdf",
     "CS 6375/Untitled",
-    "CS 6375/Chapter 3 Decision Tree Learning.md",
-    "CS 6363/Lecture 1 Asymptotics.md",
->>>>>>> Stashed changes
-    "Prompting GPT.md",
-    "CS 6363/Lecture 5.md",
-    "CS 6360/Lecture 6.md",
-    "CS 6375/Homework 1.pdf",
-    "CS 6375/Homework 1.md",
-    "CS 6360/Lecture 3.md",
-    "CS 6375/Lecture 1.md",
-    "CS 6375/Lecture 2.md",
-    "CS 6375/Lecture 3.md",
-    "CS 6363/Lecture 3.md",
-    "CS 6363/Lecture 2.md",
-    "CS 6360/Chapter 3.md",
-    "CS 6363/Chapter 4 Divide and Conquer.md",
-    "CS 6360/Chapter 1 Databases and Database Users.md",
-    "CS 6360/Lecture 5.md",
-    "CS 6363/Chapter 1 contd Recursion.md",
-    "CS 6375/ML_HW_Pickering_KAP200004.pdf",
-    "CS 6375/Chapter 3 Generative Models for Discrete Data.md",
-    "CS 6375/Chapter 3 Decision Tree Learning.md",
-    "CS 6360/Homework 1.md",
-    "CS 6360/DB_HW1_Pickering_Kap200004.pdf",
-    "CS 6363/Lecture 1 Asymptotics.md",
-    "CS 6360/Chapter 2 Database System Concepts and Architecture.md",
-    "CS 6375/Chapter 2 Probability; Univariate Models.md",
-    "CS 6360",
-    "CS 6363",
-    "g_hub/desktop.ini",
-    "g_hub",
-    "CS 6375"
+    "CS 6375/Linear Regression and Classification.md",
+    "CS 6375/Lecture 6.md",
+    "CS 6375/Statistics.md",
+    "CS 6375/Lecture 9.md",
+    "CS 6360/Lecture 8.md",
+    "CS 6363/Lecture 5.md"
   ]
 }

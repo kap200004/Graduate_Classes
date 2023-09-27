@@ -67,3 +67,34 @@ DPCutROd(n):
 		R[j] = q
 	return R[n]
 ```
+
+## Dynamic Programming: LIS, LCS, and Edit Distance
+### Longest Increasing Subsequence
+- We have an array $A$ of n integers. What we want is the longest increasing subsequence in $A$, with this, all subsequent integers are increasing. 
+- Subarray means contiguous, subsequence does not have to be contiguous.
+- We are really only going to try and compute the length of the longest increasing subsequence. 
+- What is a subsequence of $A[1, \dots,n]$?
+	- if $N=0$ only subsequence is the empty one, a length of 0. 
+	- Otherwise, a subsequence of $A[1, \dots n]$ is either $A[2, \dots, n]$ or $A[1]$ followed by $A[2, \dots, n]$. 
+- Recursive Strategy:
+	- if the array is empty, return 0. 
+	- Otherwise, figure out what to do with $A[1]$ and let the recursion fairy take care of $A[2, \dots, n]$. 
+- Strategy: Instead define LIS problem with all elements greater than some value. 
+- Let LIS(prev, start) be the LIS in $A[star t, \dots, n]$
+```
+def LIS(prev, start):
+	if start > n then 
+		return 0
+	ignore = LIS(prev, start+1)
+	best = ignore
+	if A[start] > A[prev] then 
+		include = 1+LIS(start, start+1)
+		if include > ignore then
+			best = include
+	return best
+```
+
+### Longest Common Subsequence
+- We have two character arrays as input, one of size n, and another of size m. 
+- We want to find the length of the longest common subsequence. 
+- 
