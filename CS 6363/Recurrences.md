@@ -28,3 +28,12 @@
     - For a decreasing series, the first term is the largest.
 - If the last level sum is the largest and the base case is $O(1)$, the total work is $n^{\log_{b} a}$.
 - If the level sums are constant, the total work is $f(n) \log_{b} n$.
+
+### Closest Pair
+- The problem: Given $n$ points $P \subset R^d$, find the closest pair of points. 
+- The naive way to solve this problem can be done in $O(dn^2)$, but we can actually solve this problem in $O(n\log n)$ time in constant dimension. 
+- We can first consider the one dimensional case: 
+	- Assume $P={p_{1}, p_{2}\dots,p_{n}}$ sorted by x-coordinate. 
+	- In one dimensional we can actually just find the minimum of all adjacent pairs. 
+	- This algorithm does not generalize to higher dimensions, so we can try to divide and conquer:
+		- We can split the list of points and make two calls. Conquer: the closest pair of points is either the closes from the left, right, or across the dividing line. 

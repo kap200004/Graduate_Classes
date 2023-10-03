@@ -17,5 +17,4 @@
 ### Descent Direction
 - We say that a direction $d$ is a descent direction if there is a small enough (but nonzero) amount $\alpha$ we can move in direction $d$ and be guaranteed to decrease the function value. Formally, we require that there exists an $\alpha_{max}$ > 0  such that $\mathcal{L}(\theta+\alpha \boldsymbol{d}) < \mathcal{L}(\theta)$. 
 - The gradient of our loss function points in the direction of maximal increase in $f$, so the negative gradient is a descent direction. 
-
-So, I need to compute the gradient of the following loss function with respect the the parameters $w_{0}, w_{1}$: $Loss = \frac{1}{m}\sum^{m}_{i=1}(y_{i}-w_{1}x_{i}-w_{0})^{5}$. I believe the gradient to be $\left[ -5^{4}, \frac{5}{m} \sum^{m}_{i=1} -x_{i}^{4} \right]$. Is this correct? If not please help me understand
+- Let $d =-g$ our weight update rule becomes $w_{i} = w_{i}+\alpha d_{i}$ where alpha is some multiplier that we use to take smaller steps in descent. 

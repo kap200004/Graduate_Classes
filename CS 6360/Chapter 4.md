@@ -50,4 +50,11 @@
 - In such a specialization lattice or hierarchy, a subclass inherits the attributes not only of its direct superclass, but also of all its predecessor superclasses all the way up to the root of the hierarchy or lattice. 
 - A leaf node is a class that has no subclasses of its own. 
 - If an attribute or relationship originating in the same superclass is inherited more than once via different paths in the lattice, then it should be included only once in the shared subclass. 
-- 
+## Modeling of Union Types
+- It is sometimes necessary to represent a collection of entities from different entity types. In which case, a subclass will represent a collection of entities that is a subset of the UNION of entities from distinct entity types. We call such a subclass a union type. 
+- For example, suppose that we have three entity types, person, bank, and company. In a database for motor vehicle registration, an owner of a vehicle can be a person, a bank, or a company. A union type, owner, that is a *subclass* of the UNION of the three entity sets Company, Bank, and Person can be created.
+- To model a union type, the super classes are connected to the union entity by a circle that has the union symbol inside of it. The arc must face the multiple superclasses. 
+- Selective inheritance- when an entity is a union type, it selects which attributes it inherits depending on to which superclass it belongs. 
+- On the other hand, a shared subclass inherits all the attributes of its superclasses. 
+- A category (union type) can be total or partial. A total category holds the union of all entities in its superclasses, whereas a partial category can hold a subset of the union. 
+- A total category is represented diagrammatically by a double line connecting the category and the circle. 

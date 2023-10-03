@@ -92,4 +92,36 @@
 - Weak entity types can sometimes be represented as complex (composite, multivalued) attributes. 
 - In general, any number of levels of weak entity types can be defined; an owner entity type may itself be a weak entity type. In addition, a weak entity type may have more than one identifying entity type and an identifying relationship type of degree higher than two. 
 ## ER Diagrams, Naming Conventions, and Design Issues
-- 
+- Regular (strong) entity types are shown in rectangular boxes. 
+- Relationship types are shown in diamond-shaped boxes attached to the participating entity types with straight lines. 
+- Attributes are shown in ovals, and each attribute is attached by a straight line to its entity type or relationship type. 
+- Component attributes of a composite attribute are attached to the oval representing the composite attribute. 
+- Multivalued attributes are shown in double ovals. 
+- Key attributes have their names underlined. 
+- Derived attributes are shown in dotted ovals. 
+- Weak entity types are distinguished by being placed in double rectangles and by having their identifying relationship placed in double diamonds. 
+- The partial key of the weak entity type is underlined with a dotted line. 
+- The cardinality ratio of each *binary* relationship type is specified by attaching a 1, M, or N on each participating edge. 
+- The participation constraint is specified by a single line for partial participation and by a double line for total participation (existence dependency). 
+- In notation, entity type and relationship type names are in uppercase letters, attribute names have their initial letter capitalized, and role names are in lowercase letters. 
+- In general, the schema design process should be considered an iterative refinement process, where an initial design is created and then iteratively refined until the most suitable design is reached. 
+- A concept may be first modeled as an attribute and then refined into a relationship because it is determined that the attribute is a reference to another entity type. 
+- An attribute that exists in several entity types may be elevated or promoted to an independent entity type. 
+- If an entity type exists in the initial design with a single attribute and is related to only one other entity type, it may be best to make it an attribute. 
+- Min/Max notation involves associating a pair of integer numbers, min and max, with each participation of an entity type E in a relationship type R. 
+- min = 0 implies partial participation, whereas min > 0 implies total participation. 
+## UML
+- an entity in ER corresponds to classes or objects in UML. 
+- In UML, a class is displayed as a box with three sections, where the top give the class name, the middle includes the attributes, and the bottom includes operations that can be applied to individual objects. 
+- A designer can optionally specify the domain of an attribute if desired, by placing a colon : followed by the domain name or description. 
+- A composite attribute is modeled as a structured domain. 
+- Multivalued attributes will generally be modeled as a separate class. 
+- Relationship types are called associations in UML terminology, and relationship instances are called links. 
+- A binary association is represented as a line connecting the participating classes and may optionally have a name. 
+- A relationship attribute, called a link attribute, is placed in a box that is connected to the association's line by a dashed line. 
+- The min/max notation is used to specify relationship constraints, which are called multiplicities. An asterisk indicates no maximum. 
+- A recursive relationship type is called a reflexive association in UML, and the role names, are placed at opposite ends of an association when compared with the placing of role names. 
+- In uml there are two types of relationships, association and aggregation. 
+- Aggregation is mean to represent a relationship between a whole object and its component parts. 
+- In unidirectional associations, the line connecting the classes is displayed with an arrow to indicate the only one direction for accessing related objects is needed. If no arrow is displayed, the bidirectional cases is assumed. 
+- Weak entity types can be modeled using the UML construct called qualified association; this can represent both the identifying relationship and the partial key, which is placed in a box attached to the owner class. The partial key attribute is called the discriminator. 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 6360/Homework 2.md",
+                "file": "CS 6363/Homework 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 6360/Homework 2.md",
+                "file": "CS 6363/Homework 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 6360/Homework 2.md",
+                "file": "CS 6363/Homework 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 6360/Homework 2.md"
+                "file": "CS 6363/Homework 2.md"
               }
             }
           },
@@ -185,38 +185,39 @@
   },
   "active": "1a2513a35b3e617c",
   "lastOpenFiles": [
-    "Homework 1.md",
-    "CS 6375/Optimization.md",
-    "CS 6375/Lecture Generative Versus Discriminative Classifiers.md",
-    "CS 6375/Homework 3.md",
-    "CS 6375/Homework 1.pdf",
+    "CS 6363/Recurrences.md",
+    "CS 6363/Homework 2.md",
+    "Prompting GPT.md",
+    "CS 6360/Chapter 4.md",
+    "CS 6360/Chapter 3 Data Modeling Using the Entity-Relationship (ER) Model.md",
+    "CS 6360/Chapter 3.md",
     "CS 6363/Lecture 5.md",
+    "CS 6375/Homework 3.md",
+    "1000003375.jpg",
+    "CS 6375/Chapter 6 Naïve Bayes Classifier.md",
+    "CS 6375/Chapter 3 Generative Models for Discrete Data.md",
+    "CS 6375/Optimization.md",
+    "CS 6360/Homework 2.md",
+    "Homework 1.md",
+    "CS 6375/Lecture Generative Versus Discriminative Classifiers.md",
+    "CS 6375/Homework 1.pdf",
     "CS 6360/Lecture 6.md",
     "CS 6360/Lecture 4.md",
-    "CS 6360/Chapter 3.md",
     "qeustion4.png",
     "Question3.jpg",
     "Question2.png",
     "CS 6360/Chapter 5.md",
-    "CS 6360/Chapter 4.md",
-    "CS 6360/Homework 2.md",
     "Question1.png",
-    "CS 6360/Chapter 3 Data Modeling Using the Entity-Relationship (ER) Model.md",
-    "CS 6363/Recurrences.md",
-    "CS 6375/Chapter 6 Naïve Bayes Classifier.md",
     "CS 6375/Statistics.md",
     "CS 6375/New Homework on Statistical Inference and Maximum Likelihood Estimation.md",
     "CS 6375/ML_HW_Pickering_KAP200004.pdf",
     "CS 6375/Lecture 3.md",
     "CS 6375/Lecture 2.md",
     "CS 6375/Lecture 1.md",
-    "CS 6375/Chapter 3 Generative Models for Discrete Data.md",
     "CS 6375/Continued Notes.md",
-    "Prompting GPT.md",
     "CS 6375/Chapter 3 Probability; Multivariate Models.md",
     "CS 6375/Chapter 2 Probability.md",
     "CS 6375/Chapter 2 Probability; Univariate Models.md",
-    "CS 6363/Homework One.md",
     "CS 6360/DB_HW1_Pickering_Kap200004.pdf",
     "CS 6360",
     "CS 6363",
