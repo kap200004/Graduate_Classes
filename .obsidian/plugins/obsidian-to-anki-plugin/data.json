@@ -1,0 +1,155 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Anki Model": "",
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Anki Model": "Question",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "CS 6360": "",
+      "CS 6363": "",
+      "CS 6375": "",
+      "CS 6320": "",
+      "CS 6347": ""
+    },
+    "FOLDER_TAGS": {
+      "CS 6360": "",
+      "CS 6363": "",
+      "CS 6375": "",
+      "CS 6320": "",
+      "CS 6347": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": true,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "Prompting GPT.md": "e1c4166ac146b13ac85c0492a9de987b",
+    "Homework 1.md": "6b1826d3f835c103b1a0fd5295c02e3c",
+    "CS 6375/Bayesian Networks.md": "f641099e620f2381fa922d69111f3265",
+    "CS 6375/Statistics.md": "33d61b7684e98cce5cce940e5499d4b9",
+    "CS 6375/ReadMe.md": "4dcbeb56ff112a40a2580939f0b93f42",
+    "CS 6375/Project 1 Write Up.md": "9cfb8e39e122bb116e036c121fd67078",
+    "CS 6375/New Homework on Statistical Inference and Maximum Likelihood Estimation.md": "c9fc410da15dfd53f5ec606149a34a74",
+    "CS 6375/Optimization.md": "959f56e9b17ef9e63d1c880fca968f03",
+    "CS 6375/Linear Regression and Classification.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "CS 6375/Lecture 3.md": "2bef8984c5e6276fbd25ea6363ae84a5",
+    "CS 6375/Lecture Generative Versus Discriminative Classifiers.md": "ea82fc8d8f320d771fe2d4072039e7bf",
+    "CS 6375/Lecture 2.md": "601938fa039e799970bd72abb0892fe3",
+    "CS 6375/Lecture 6.md": "6be6b5f53bdeee0c2967b37fba9a6e0f",
+    "CS 6375/Lecture 1.md": "ba663b125c0eb21bd99c120ef3903d1a",
+    "CS 6375/Homework 3.md": "2a3db4112c994b40d8adef9ae786c27b",
+    "CS 6375/Homework 4.md": "538f4f9d5472438d6c2bb00d488100f5",
+    "CS 6375/Homework 1.md": "97ec668a5c4b917143ddb2a524c3c96b",
+    "CS 6375/Continued Notes.md": "207f9c9ab12b31dd8241448c1ba9221c",
+    "CS 6375/Chapter 3 Probability; Multivariate Models.md": "33c9ab11bb54452335295242f2c85e19",
+    "CS 6375/Chapter 6 Naïve Bayes Classifier.md": "e78db765d37f84a7765f1617c0c28403",
+    "CS 6375/Chapter 3 Generative Models for Discrete Data.md": "613aa696c0c9f7182ff6615172027803",
+    "CS 6375/Chapter 3 Decision Tree Learning.md": "7d56ad0d5463281dea3ec1fde1b3f66e",
+    "CS 6375/Chapter 2 Probability; Univariate Models.md": "24c3bd882e18ebdacd86acd04e102ebe",
+    "CS 6375/Chapter 2 Concept Learning and the General-to-Specific Ordering.md": "3f0742e075efc2708029829898c98abf",
+    "CS 6375/Chapter 2 Probability.md": "a2bcbd570df92d8738c3969f9abf5f40",
+    "CS 6363/Shortest Paths.md": "a756a7984857dc1d5ecd68ad54cd30ca",
+    "CS 6363/Recurrences.md": "826490b715d4e774d80effa178956ca2",
+    "CS 6363/Lecture 5.md": "6907cb25eccd0044e895693eb8fd2f65",
+    "CS 6363/Lecture 3.md": "53fdb4d7ad8d663c390e61408915e417",
+    "CS 6363/Lecture 1 Asymptotics.md": "45407518f5b86d053f5689e36a89114c",
+    "CS 6363/Lecture 2.md": "6f249d846548fac47ce5b4c35a58151e",
+    "CS 6363/Homework One.md": "d5076b308d1a0a5f54ac8a75af817a67",
+    "CS 6363/Homework 3.md": "ae7ccf9efe602ce94d3551f4bf56f8f3",
+    "CS 6363/Homework 2.md": "6d36a5fda3c2d85160c8a99a00cbd898",
+    "CS 6363/Dynamic Programming.md": "fab42f932dfb89204f046d5c5307d961",
+    "CS 6363/Chapter 3 Characterizing Running Times.md": "e293a3ab0dbd5549a74b6e08a4d2352f",
+    "CS 6363/Chapter 4 Divide and Conquer.md": "708e752838369506ba4f973b14de883b",
+    "CS 6363/Chapter 1 Recursion.md": "6c8e3ab8ba51688d9ae2fa26fd4e29e5",
+    "CS 6363/Chapter 1 contd Recursion.md": "7c7eefe3ddbf550475a50951046cfe28",
+    "CS 6363/Backtracking.md": "8eb7a6e629354dbadc4b6e1816873088",
+    "CS 6360/Project Report.md": "d368c7497bdda0e443f63c8cc20a92c3",
+    "CS 6360/Lecture 8.md": "2f4b7169eda06656f60b7c76be3bf5b3",
+    "CS 6360/Lecture 6.md": "56df599a6481b74d56d0165bbcd852d3",
+    "CS 6360/Lecture 4.md": "9160153330c04208b12e0bf0c034937f",
+    "CS 6360/Homework 2.md": "587e40791f9cd12ee95a478e34db7a88",
+    "CS 6360/Lecture 3.md": "9fcba3de394c29b2caa47691ab24f24a",
+    "CS 6360/Homework 1.md": "0b2c1d3bd217fa20652413eda66fa0a2",
+    "CS 6360/Chapter 5.md": "4af53037ac368b83f9db80190f9f9d84",
+    "CS 6360/Chapter 4.md": "440cf4f2e55de078e0aee9481a7cdbdd",
+    "CS 6360/Chapter 3 Data Modeling Using the Entity-Relationship (ER) Model.md": "7c99312acd7a2b452f80b56ab35a7543",
+    "CS 6360/Chapter 2 Database System Concepts and Architecture.md": "e4bef09fb528cc8a766a237a13d419ca",
+    "CS 6360/Chapter 1 Databases and Database Users.md": "f5c5d00f1b19a57cbca4a76697002c02",
+    "CS 6320/Chapter 4.md": "1cf8021b734af66e6b6d857e872e9000",
+    "CS 6320/Chapter 6.md": "83414e7582b3d24e66bc0f284bbe5cb2",
+    "CS 6320/Chapter 7.md": "2f317e4d85e78caff5a01c9b17a0e0af",
+    "Matplotlib Cheat.md": "41013e60f02871c47315559a27d3e239",
+    "CS 6347/Scribe Notes.md": "42046ef4be3292cb3ea14c79d5da5f77",
+    "CS 6347/Homework 1.md": "a24f7d20bd79b21f3c66624f9feda6a1",
+    "CS 6320/Chapter 8.md": "f3e7d8f21d678438c09c5fa608bb2883",
+    "CS 6320/Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "CS 6320/Chapter 12.md": "7872156fe7b60752b69c632103ba37ae",
+    "CS 6320/Chapter 9.md": "5f814415c5e19c038c37dbd6b565b06a",
+    "CS 6320/Chapter 10.md": "908a25eb87f7b99eda241bb84b4a81e5",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/HW 1 Questions.md": "488ca7c0cb4ac6c7d5cd87b46918b54f",
+    "CS 6360 Database Design/Flash Cards/Chapter 2/Flash.md": "58b91958776637ed8d8da7ccaa1eb21e",
+    "CS 6364 Artificial Intelligence/Flash Cards/Chapter 3/Flash.md": "bf12e14828581d363213526094498884"
+  },
+  "fields_dict": {
+    "Anki Model": [
+      "Question",
+      "Answer",
+      "Explanation",
+      "Type",
+      "Page"
+    ],
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ]
+  }
+}

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0e492ee9474a45b1",
+        "id": "2a9ec96048042225",
         "type": "tabs",
         "children": [
           {
-            "id": "2d69d629afb6aef2",
+            "id": "eb186120c92ac0a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 6375/Chapter 6 Naïve Bayes Classifier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a2513a35b3e617c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 6363/Homework 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bea588942d5991e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 6375/Chapter 3 Decision Tree Learning.md",
+                "file": "CS 6360 Database Design/Flash Cards/Chapter 5/Flash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 417.5
   },
   "right": {
     "id": "60980d9cfd16debe",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 6363/Homework 2.md",
+                "file": "CS 6360 Database Design/Flash Cards/Chapter 5/Flash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 6363/Homework 2.md",
+                "file": "CS 6360 Database Design/Flash Cards/Chapter 5/Flash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 6363/Homework 2.md"
+                "file": "CS 6360 Database Design/Flash Cards/Chapter 5/Flash.md"
               }
             }
           },
@@ -160,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -180,49 +157,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "1a2513a35b3e617c",
+  "active": "eb186120c92ac0a5",
   "lastOpenFiles": [
-    "CS 6363/Recurrences.md",
-    "CS 6363/Homework 2.md",
-    "Prompting GPT.md",
-    "CS 6360/Chapter 4.md",
-    "CS 6360/Chapter 3 Data Modeling Using the Entity-Relationship (ER) Model.md",
-    "CS 6360/Chapter 3.md",
-    "CS 6363/Lecture 5.md",
-    "CS 6375/Homework 3.md",
-    "1000003375.jpg",
-    "CS 6375/Chapter 6 Naïve Bayes Classifier.md",
-    "CS 6375/Chapter 3 Generative Models for Discrete Data.md",
-    "CS 6375/Optimization.md",
-    "CS 6360/Homework 2.md",
-    "Homework 1.md",
-    "CS 6375/Lecture Generative Versus Discriminative Classifiers.md",
-    "CS 6375/Homework 1.pdf",
-    "CS 6360/Lecture 6.md",
-    "CS 6360/Lecture 4.md",
-    "qeustion4.png",
-    "Question3.jpg",
-    "Question2.png",
-    "CS 6360/Chapter 5.md",
-    "Question1.png",
-    "CS 6375/Statistics.md",
-    "CS 6375/New Homework on Statistical Inference and Maximum Likelihood Estimation.md",
-    "CS 6375/ML_HW_Pickering_KAP200004.pdf",
-    "CS 6375/Lecture 3.md",
-    "CS 6375/Lecture 2.md",
-    "CS 6375/Lecture 1.md",
-    "CS 6375/Continued Notes.md",
-    "CS 6375/Chapter 3 Probability; Multivariate Models.md",
-    "CS 6375/Chapter 2 Probability.md",
-    "CS 6375/Chapter 2 Probability; Univariate Models.md",
-    "CS 6360/DB_HW1_Pickering_Kap200004.pdf",
-    "CS 6360",
-    "CS 6363",
-    "g_hub/desktop.ini",
-    "g_hub",
-    "CS 6375"
+    "CS 6360 Database Design/Flash Cards/Chapter 2/Flash.md",
+    "CS 6360 Database Design/Flash Cards/Chapter 5/Flash.md",
+    "CS 6364 Artificial Intelligence/Flash Cards/Chapter 3/Flash.md",
+    "CS 6360 Database Design/Flash Cards/Chapter 5",
+    "CS 6360 Database Design/Flash Cards/Untitled.md",
+    "CS 6364 Artificial Intelligence/Flash Cards/Chapter 3",
+    "CS 6364 Artificial Intelligence/Flash Cards",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/2.10.png",
+    "CS 6360 Database Design/Flash Cards/Chapter 2",
+    "CS 6360 Database Design/Flash Cards",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/HW 1 Questions.md",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/Building_an_Ensemble_of_Probabilistic_Classifiers_for_Lung_Nodule_Interpretation.pdf",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/2.4.png",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/1.7.png",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/2.13.png",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/2.13.png.crdownload",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/2.10.png.crdownload",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/2.4.png.crdownload",
+    "CS 6364 Artificial Intelligence/Homeworks/HW1/1.7.png.crdownload",
+    "CS 6364 Artificial Intelligence/Homeworks/Untitled.md",
+    "CS 6364 Artificial Intelligence/Untitled.md",
+    "CS 6364 Artificial Intelligence/HW1 Questions.md",
+    "Untitled/Untitled.md",
+    "STUPID ASSIGNMENT QUIZ.md",
+    "Homework 4.md",
+    "CS 6347/Homework 5.md",
+    "CS 6347/gdgdg.md",
+    "CS 6320/4subplanes.png",
+    "CS 6347/Homework 1.md",
+    "CS 6320/Chapter 10.md",
+    "CS 6347/Homework 3.md",
+    "CS 6320/Paper.md",
+    "CS 6320/model.png",
+    "CS 6320/deriv.png",
+    "CS 6320/res.png",
+    "CS 6320/qualit.png",
+    "CS 6347/The Discrete and Center Line Segment Problems in the Plane.md",
+    "CS 6347/set_Q.png",
+    "CS 6347/The Median Line Segment Problem.md",
+    "CS 6347/Capturing the Shape of a Point Set with a Line Segment.md",
+    "Cases for the Merge Algorithm not currently fixed.md",
+    "CS 6320/Chapter 9.md",
+    "CS 6320/Chapter 12.md",
+    "CS 6320/Chapter 8.md",
+    "CS 6320/Chapter 4.md",
+    "CS 6320/Chapter 6.md"
   ]
 }
